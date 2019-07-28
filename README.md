@@ -1,1 +1,1 @@
-# MNIST-GANs
+# MNIST digit generation using GANs
