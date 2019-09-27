@@ -10,7 +10,7 @@ Code Repository for EE4-62 Selected Topics in Computer Vision (2018-2019)  Cours
 
 ### Code Instructions
 
-The files containt he different sections described in the report:
+The files contain the different sections described in the report:
 
 [DCGAN](https://github.com/RVS97/MNIST-GANs/blob/master/TCV2_DCGAN.ipynb) and [cGAN](https://github.com/RVS97/MNIST-GANs/blob/master/TCV2_cGAN.ipynb) are the two main files, containing the implementation, training and testing of Deep Convololutional and Conditional GANs.
 
